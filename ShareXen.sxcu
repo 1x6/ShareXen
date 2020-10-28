@@ -1,10 +1,10 @@
 ﻿{
   "DestinationType": "ImageUploader",
-  "RequestURL": "https://your.domain/sharexen.php",
+  "RequestURL": "http://www.syskeyed.tk/img/upload.php",
   "FileFormName": "image",
   "Arguments": {
     "endpoint": "upload",
-    "token": "change-me"
+    "token": "admin12y"
   },
   "URL": "$json:url$",
   "DeletionURL": "$json:deletion_url$"
